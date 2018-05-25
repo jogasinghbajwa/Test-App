@@ -17,6 +17,7 @@
 		55539D602099B901001B93CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55539D5F2099B901001B93CC /* Assets.xcassets */; };
 		55539D632099B901001B93CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55539D612099B901001B93CC /* LaunchScreen.storyboard */; };
 		55539D6B2099BCA3001B93CC /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55539D6A2099BCA3001B93CC /* GradientView.swift */; };
+		5572688620B7CB5100BFB7FF /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5572688520B7CB5100BFB7FF /* TestViewController.swift */; };
 		5594229520AD5DE0008F5B38 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5594229420AD5DE0008F5B38 /* SettingViewController.swift */; };
 		55A45F2920AECF9C005772E2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 55A45F2820AECF9C005772E2 /* GoogleService-Info.plist */; };
 		55A45F2C20AED597005772E2 /* CurrentLocationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A45F2B20AED597005772E2 /* CurrentLocationController.swift */; };
@@ -37,6 +38,7 @@
 		55539D622099B901001B93CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55539D642099B901001B93CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55539D6A2099BCA3001B93CC /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		5572688520B7CB5100BFB7FF /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		5594229420AD5DE0008F5B38 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		55A45F2820AECF9C005772E2 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		55A45F2B20AED597005772E2 /* CurrentLocationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentLocationController.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				5550C1A6209ACEB20089BBEB /* TestView.swift */,
 				5545BC53209C9353002C0C9B /* ListController.swift */,
 				5545BC55209C9375002C0C9B /* RoomCell.swift */,
+				5572688520B7CB5100BFB7FF /* TestViewController.swift */,
 			);
 			path = "Test App";
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				55539D592099B900001B93CC /* AppDelegate.swift in Sources */,
 				5545BC56209C9375002C0C9B /* RoomCell.swift in Sources */,
 				5594229520AD5DE0008F5B38 /* SettingViewController.swift in Sources */,
+				5572688620B7CB5100BFB7FF /* TestViewController.swift in Sources */,
 				55539D6B2099BCA3001B93CC /* GradientView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
